@@ -1,6 +1,15 @@
 # TextMesh Pro
 Assets/TextMesh*
 
+# Unity render pipeline files dumped in root
+ComputeCommandBuffer.cs
+IBaseCommandBuffer.cs
+IComputeCommandBuffer.cs
+IRasterCommandBuffer.cs
+IUnsafeCommandBuffer.cs
+RasterCommandBuffer.cs
+UnsafeCommandBuffer.cs
+
 # Unity generated
 [Ll]ibrary/
 [Tt]emp/
