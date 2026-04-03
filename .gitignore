@@ -1,6 +1,10 @@
 # TextMesh Pro
 Assets/TextMesh*
 
+# Asset Store downloads (re-download as needed)
+Assets/Asset  Store/
+Assets/Asset  Store.meta
+
 # Unity render pipeline files dumped in root
 ComputeCommandBuffer.cs
 IBaseCommandBuffer.cs
